@@ -33,6 +33,7 @@
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/73f200d8-f4b9-4ade-aa6d-a5e79c1be28e" />
 
 ### Sau khi nhấn continue to activation sẽ chuyển sang trang có chứa 2 dòng namespace, copy 2 dòng đó lại.
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/43e8ff8d-62f2-4ff2-95d9-4ba50ec08f73" />
 
 ---------------------
 ## 4. Nhập 2 dòng namespace của cloudflare vào trong trang quản lý DNS record của tên miền đăng ký
