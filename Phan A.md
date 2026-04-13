@@ -36,20 +36,3 @@
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/43e8ff8d-62f2-4ff2-95d9-4ba50ec08f73" />
 
 ---------------------
-## 4. Nhập 2 dòng namespace của cloudflare vào trong trang quản lý DNS record của tên miền đăng ký
-### Đăng nhập vào trang mắt bão *https://manage.matbao.net/domains*
-### Sau khi đăng nhập vào, chọn tên miền -> quản lý tên miền
-<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/20179099-2402-43ba-bbba-10f0f89b1764" />
-
-### Chọn quản lý chi tiết dịch vụ
-<img width="1919" height="803" alt="Screenshot 2026-04-09 162435" src="https://github.com/user-attachments/assets/9fd012d6-67fb-4c5d-972f-1194f513da30" />
-
-### Trong Servername chọn "Sử dụng Name Server tùy chỉnh" sau đó nhập 2 namespace của cloudfare vào -> Nhấn lưu thay đổi
-<img width="1920" height="1080" alt="A4-2ok" src="https://github.com/user-attachments/assets/9b52d05f-c194-4bb1-9bb4-69cd6052097a" />
-
-### Sau khi nhập 2 dòng namespace của cloudflare vào trong trang quản lý DNS record của tên miền đăng ký trên mắt bão, quay trở lại trang cloudfare kiểm tra, nếu status active => Đã kết nối thành công Domain với Cloudfare
-<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/f52ee17b-da67-4d17-8fe4-60e5f6a26f82" />
-
-
-
-
