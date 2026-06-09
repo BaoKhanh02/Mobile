@@ -16,6 +16,7 @@
 7. Edit file **./nodered/settings.js** để nodered bắt buộc đăng nhập
    > Chạy docker-compose lần đầu để Node-RED tự sinh file cấu hình trong thư mục ./nodered, sau đó mới tiến hành sửa settings.js và restart lại container
 
+
 # Bài Làm
 ## 1. Tạo thư mục: ~/myapp
 ```
