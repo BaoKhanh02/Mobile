@@ -31,7 +31,8 @@
 6. Kiểm tra url sub-domain đã hoạt động public cho mọi end-user
 <img width="1920" height="1029" alt="image" src="https://github.com/user-attachments/assets/b4b75646-30f7-4a9e-9d47-00c65c01fec3" />
 
-## Trả lời câu hỏi
+# Trả lời câu hỏi
+
 ## F. Câu hỏi tìm hiểu
 
 ### 1. Tại sao phải dùng Nginx làm Reverse Proxy mà không trỏ thẳng Tunnel vào Node-RED?
