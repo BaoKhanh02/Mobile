@@ -35,4 +35,5 @@
 ### Sau khi nhấn continue to activation sẽ chuyển sang trang có chứa 2 dòng namespace, copy 2 dòng đó lại.
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/43e8ff8d-62f2-4ff2-95d9-4ba50ec08f73" />
 
+
 ---------------------
