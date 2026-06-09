@@ -18,6 +18,7 @@ Các lệnh cần tìm hiểu:
 ### 6. Tìm hiểu tập lệnh của docker và docker compose
 ### 7. Đảm bảo tường lửa trên Ubuntu đã cho phép cổng 80, 1880, 9630 (Lệnh: sudo ufw allow ...)
 -------------------
+
 # BÀI LÀM
 ## I. Cài đặt hệ điều hành Unbuntu 24.04.4 LTS
 ### 1. Truy cập vào: (https://ubuntu.com/download/desktop)
